@@ -4,7 +4,7 @@
 
 UnityRoom で Addressables を使うために必要な、js 書き換えを自動化するツール
 
-使い方：
+### 使い方
 
 1. unitypackage を使うプロジェクトにインポート
 2. Tools/ReplaceStreamingAssetsForUnityRoom で、書き換え元と書き換える URL を設定
